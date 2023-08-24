@@ -1,0 +1,8 @@
+db.sqlite3
+.env
+.DS_store
+__init__.py
+pytest.ini
+tests/
+.pytest_cache/
+.vscode/
