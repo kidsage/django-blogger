@@ -6,3 +6,4 @@ pytest.ini
 tests/
 .pytest_cache/
 .vscode/
+*.pyc
