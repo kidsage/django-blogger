@@ -6,3 +6,8 @@ pytest.ini
 tests/
 .pytest_cache/
 .vscode/
+*.pyc
+htmlcov/
+.coverage
+*.md
+__pycache__/
