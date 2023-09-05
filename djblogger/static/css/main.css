@@ -16,3 +16,8 @@ html,
 body {
     font-family: 'Barlow', sans-serif;
 }
+
+
+.fw-500 {
+    font-weight: 500 !important;
+}
