@@ -13,6 +13,5 @@ class HomeView(ListView):
 
     def get_template_names(self) -> List[str]:
         if self.request.htmx:
-            print("hello")
-            # return [self.template_name]
+            return ["blog/components/post-list-elements.html"]
         return [self.template_name]
