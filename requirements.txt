@@ -11,6 +11,7 @@ Faker==19.3.1
 flake8==6.1.0
 inflection==0.5.1
 iniconfig==2.0.0
+Markdown==3.4.4
 mccabe==0.7.0
 mypy-extensions==1.0.0
 packaging==23.1
